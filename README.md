@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
 
 <!--
 **linkeshvaranr/linkeshvaranr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
