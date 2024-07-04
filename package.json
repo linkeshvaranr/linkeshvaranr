@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/linkeshvaranr/linkeshvaranr#readme",
   "dependencies": {
-    "cfonts": "^3.3.0"
+    "cfonts": "^3.3.0",
+    "chalk-animation": "^2.0.3",
+    "react-type-animation": "^3.2.0"
   }
 }
