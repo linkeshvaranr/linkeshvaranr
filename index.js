@@ -1,7 +1,7 @@
 const CFonts = require('cfonts');
 
-async function printResume() {
-    const chalkAnimation = await import('chalk-animation');
+
+function printResume() {
     CFonts.say('Linkeshvaran R', {
         font: 'block', 
         align: 'center',
@@ -77,11 +77,6 @@ async function printResume() {
         - SQL and SAQL
     `);
 
-    const animation = chalkAnimation.default.karaoke('I like S O L V I N G problems :)');
-    
-    setTimeout(() => {
-        animation.stop();
-    }, 3000);
 }
 
 printResume();
