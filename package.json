@@ -4,7 +4,7 @@
   "description": "Resume of Linkeshvaran Raja Krishna Kumar",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "node Run/printresume.js"
   },
   "repository": {
     "type": "git",
