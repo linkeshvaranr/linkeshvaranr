@@ -4,7 +4,7 @@
   "description": "Resume of Linkeshvaran Raja Krishna Kumar",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node Run/printresume.js"
+    "postinstall": "node index.js"
   },
   "repository": {
     "type": "git",

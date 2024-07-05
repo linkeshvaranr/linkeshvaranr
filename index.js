@@ -1,6 +1,5 @@
 const CFonts = require('cfonts');
 
-
 async function printResume() {
     const chalkAnimation = await import('chalk-animation');
     CFonts.say('Linkeshvaran R', {
@@ -47,7 +46,7 @@ async function printResume() {
       - Developed custom Salesforce solutions.
       - Built complex console components.
       - Customized FSL Automations based on Customer needs.
-      - Created Dashboards invloving multiple datasets using SAQL as well as Standard Lens Builder.
+      - Created Dashboards involving multiple datasets using SAQL as well as Standard Lens Builder.
     `);
 
     CFonts.say('Skills', {
@@ -83,7 +82,6 @@ async function printResume() {
     setTimeout(() => {
         animation.stop();
     }, 3000);
-
 }
 
-module.exports = printResume;
+printResume();
