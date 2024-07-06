@@ -1,5 +1,5 @@
+#!/usr/bin/env node
 const CFonts = require('cfonts');
-
 
 function printResume() {
     CFonts.say('Linkeshvaran R', {
